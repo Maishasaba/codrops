@@ -1,0 +1,377 @@
+@media (max-width: 1399px){
+	header{
+		background-size: 600px;
+	}
+	.card.shadow {
+    	padding: 20px;
+	}
+	section.wide-range{
+		background-size: 600px;
+	}
+
+}
+@media (max-width: 1199px){
+	header h1{
+		font-size: 38px;
+		line-height: 1.4;
+	}
+	header p{
+	line-height: 1.6;
+    margin: 20px 0;
+	}
+	header .btn{
+		padding-top: 10px !important;
+		padding-bottom: 10px !important;
+	}
+	header .btn i{
+	font-size: 35px;
+	}
+	.container.brand-content{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	}
+	section.range p{
+		font-size: 15px;
+	}
+	section.range h1{
+		font-size: 28px;
+	}
+	section.wide-range .btn {
+    	font-weight: 500;
+    	padding: 15px !important;
+    	font-size: 18px;
+	}
+		section.wide-range{
+		background-size: 500px;
+	}
+	section.question ul li{
+
+    line-height: 1.8;
+    font-size: 14px;
+    
+	}
+	section.question h1 {
+		font-size: 27px;
+	}
+	section.solution p{
+		font-size: 14px;
+	}
+	section.member h1{
+		font-size: 28px;
+	}
+	section.member p{
+		line-height: 1.8;
+    font-size: 15px;
+	}
+		section.member .btn {
+    	font-weight: 500;
+    	padding: 15px !important;
+    	font-size: 18px;
+	}
+	section.member ul li h4{
+		font-size: 40px;
+	}
+	section.member ul li h3{
+		font-size: 16px;
+	}
+
+}
+@media (max-width: 991px){
+	header{
+		background-size: 450px;
+		background-position: right center;
+	}
+	header h1{
+		font-size: 29px;
+	}
+	header p{
+		font-size: 15px;
+    line-height: 1.8;
+	}
+	header .btn{
+		margin-bottom: 15px;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    font-size: 15px;
+    font-weight: 700;
+	}
+header .btn i {
+    font-size: 30px;
+}
+section.brand-partner img {
+    width: 100px;
+}
+section.range h1{
+	
+    margin-top: 30px;
+}
+section.range p{
+	
+}
+section.range .btn i{
+	font-size: 20px;
+}
+section.range .btn{
+	font-size: 18px;
+	text-align: center;
+}
+section.wide-range {
+    background-size: 400px;
+    background-position: center left;
+}
+section.wide-range h1 {
+    font-size: 26px;
+}
+section.wide-range p{
+	font-size: 15px;
+}
+section.wide-range .btn {
+    font-weight: 600;
+    padding: 10px !important;
+    font-size: 15px;
+}
+section.question h1 {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+section.features .heading h1{
+	font-size: 26px;
+}
+section.features .heading p{
+	font-size: 15px;
+}
+.card.shadow.feature{
+	margin-bottom: 20px;
+}
+.features.row.py-5{
+	padding-top: 0 !important;
+}
+section.member h1 {
+    font-size: 26px;
+
+}
+section.member .btn{
+	    padding: 10px !important;
+    font-size: 16px;
+}
+section.pricing-table{
+	padding: 100px 0;
+}
+section.pricing-table .heading h1{
+	font-size: 26px;
+}
+section.pricing-table .heading p{
+	font-size: 15px;
+}
+.price-table ul li{
+	    padding: 10px 20px;
+}
+.order-now .btn-outline-primary{
+	font-size: 16px;
+}
+.subscription .heading h1{
+	font-size: 26px;
+	text-align: center;
+}
+.subscription .heading p{
+	font-size: 15px;
+	text-align: center;
+}
+footer{
+	padding: 100px 0;
+}
+.footer-widget.icons {
+    margin-top: 50px;
+}
+}
+@media (max-width: 767px){
+	header{
+		background-image: none;
+	}
+	header h1 {
+    font-size: 26px;
+}
+header p{
+	font-size: 14px;
+}
+section.brand-partner img {
+    margin-bottom: 20px;
+}
+.range .card.shadow {
+    margin: auto;
+    margin-bottom: 30px;
+}
+section.range h1{
+	font-size: 24px;
+}
+section.wide-range{
+	background-image: none;
+	padding: 100px 0;
+}
+section.question ul {
+    margin-bottom: 30px;
+}
+section.features .heading h1{
+	font-size: 24px;
+}
+section.features .heading p{
+	font-size: 14px;
+}
+section.solution h1{
+	font-size: 24px;
+}
+section.member h1{
+	font-size: 24px;
+}
+section.member p{
+	font-size: 14px;
+}
+section.pricing-table .heading p{
+	font-size: 14px;
+}
+section.pricing-table .heading h1{
+	font-size: 24px;
+}
+.price-heading{
+	text-align: center;
+}
+.order-now{
+	text-align: center;
+}
+.price-table{
+	margin-bottom: 35px;
+}
+.subscription .heading h1{
+	font-size: 24px;
+}
+h5.footer-title {
+    font-size: 14px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.footer-widget ul li {
+    line-height: 2.4;
+}
+.footer-widget ul li a{
+	font-size: 10px;
+}
+}
+
+@media (max-width: 575px){
+	header h1 {
+    font-size: 22px;
+}
+header p{
+	font-size: 12px;
+}
+header .btn {
+    
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+    font-size: 12px;
+}
+header .btn i {
+    font-size: 20px;
+}
+section.brand-partner img {
+    margin-bottom: 20px;
+}
+section.range p{
+	font-size: 12px;
+}
+section.range h1{
+	font-size: 20px;
+}
+section.wide-range p{
+	font-size: 12px;
+}
+section.wide-range h1{
+	font-size: 20px;
+}
+section.wide-range .btn {
+    font-weight: 500;
+    padding: 6px !important;
+    font-size: 12px;
+}
+section.question h1{
+	font-size: 20px;
+}
+section.question {
+    padding: 80px 0;
+}
+section.features {
+    padding: 80px 0;
+}
+section.features h1{
+	font-size: 20px;
+}
+section.features p{
+	font-size: 12px;
+}
+h5.card-title{
+	font-size: 18px;
+}
+section.solution{
+	padding: 80px 0;
+}
+section.solution h1{
+	font-size: 20px;
+}
+section.solution p{
+	font-size: 12px;
+}
+section.solution a i{
+	font-size: 30px;
+}
+section.member{
+	padding: 80px 0;
+}
+section.member h1{
+	font-size: 20px;
+}
+section.member p{
+	font-size: 12px;
+}
+section.member ul li h4{
+	font-size: 30px;
+}
+section.member ul li h3{
+	font-size: 14px;
+}
+section.member .btn {
+    padding: 6px !important;
+    font-size: 14px;
+}
+section.pricing-table h1{
+	font-size: 20px;
+}
+section.pricing-table p{
+	font-size: 12px;
+}
+section.pricing-table{
+	padding: 80px 0;
+}
+.subscription .heading h1{
+	font-size: 20px;
+}
+.subscription .heading p{
+	font-size: 12px;
+}
+.subscription{
+	padding: 80px 0;
+}
+.footer-widget {
+    margin: auto;
+    text-align: center;
+}
+.footer-widget ul li a{
+	font-size: 12px;
+}
+h5.footer-title {
+    font-size: 15px;
+    }
+    .footer-widget.icons .nav {
+    display: inline-flex;
+}
+}
